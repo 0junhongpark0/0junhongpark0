@@ -2,10 +2,17 @@
 
 
 ### About Me
-Taegu Foreign Language High School
-Hankuk University of Foreign Studies, Department of Persian Language and Studies
+Taegu Foreign Language High School(2016 ~ 2019.01.30).
+Persian Language and Iranian Studies, Hankuk University of Foreign Studies(2019.03 ~ Now).
+Japanese Language and Culture, Hankuk University of Foriegn Studies(2019.03 ~ Now).
 
-Marketer of Zarathu Co.,Ltd
+Marketer of Zarathu Co.,Ltd(2022.05.09 ~ Now).
+
+### Quadrilingual
+Korean
+Japanese
+English
+Persian
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
