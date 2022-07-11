@@ -1,20 +1,39 @@
-### Editing...
+<h1>Currently in Preparation...</h1>
 
-### Hello there! I'm Junhong Park. 👋
+<h1>About Me</h1>
+● Name : Junhong Park<br><br>
+● Nationality : Korean<br><br>
+● E-mail Address : 
 
+<h1>Current Position</h1>
+● Marketer of Zarathu Co.,Ltd<br>
+2022.05.09 ~ Now<br>
+https://www.zarathu.com<br><br>
+● Subtitler of Mina Sohn Youtube Channel<br>
+Korean → Japanese<br>
+2022.04 ~ Now<br>
+https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
-### About Me
-Taegu Foreign Language High School(2016 ~ 2019.01.30).
-Persian Language and Iranian Studies, Hankuk University of Foreign Studies(2019.03 ~ Now).
-Japanese Language and Culture, Hankuk University of Foriegn Studies(2019.03 ~ Now).
+<h1>Education</h1>
+● University<br>
+<strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
+<strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture<br>
+Hankuk University of Foreign Studies</strong>, Seoul, Korea<br>
+Expected to graduate in 2023<br><br>
+● High School<br>
+Taegu Foreign Language High School, Seoul, Korea<br>
+Graduated in 2019.01.30
 
-Marketer of Zarathu Co.,Ltd(2022.05.09 ~ Now).
+<h1>Licenses & Certifications</h1>
+● JPT 915/990<br>
+2022.03
 
-### Quadrilingual
-Korean
-Japanese
-English
-Persian
+<h1>Languages</h1>
+I can speak :<br>
+● Korean<br><br>
+● Japanese<br><br>
+● English<br><br>
+● Persian<br><br>
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
