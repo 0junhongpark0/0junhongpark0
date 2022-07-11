@@ -6,10 +6,10 @@
 ● E-mail Address : 
 
 <h1>Current Position</h1>
-● Marketer of Zarathu Co.,Ltd<br>
+● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 2022.05.09 ~ Now<br>
 https://www.zarathu.com<br><br>
-● Subtitler of Mina Sohn Youtube Channel<br>
+● <strong>Subtitler of Mina Sohn Youtube Channel</strong><br>
 Korean → Japanese<br>
 2022.04 ~ Now<br>
 https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
