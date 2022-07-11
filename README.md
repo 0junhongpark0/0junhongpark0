@@ -30,10 +30,10 @@ Graduated in 2019.01.30
 
 <h1>Languages</h1>
 I can speak :<br>
-● Korean<br><br>
-● Japanese<br><br>
-● English<br><br>
-● Persian<br><br>
+● <strong>Korean</strong><br><br>
+● <strong>Japanese</strong><br><br>
+● <strong>English</strong><br><br>
+● <strong>Persian</strong><br><br>
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
