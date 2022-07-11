@@ -1,7 +1,11 @@
 ### Hello there! I'm Junhong Park. 👋
 
 
-#### About Me
+### About Me
+Taegu Foreign Language High School
+Hankuk University of Foreign Studies, Department of Persian Language and Studies
+
+Marketer of Zarathu Co.,Ltd
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
