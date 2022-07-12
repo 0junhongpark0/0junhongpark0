@@ -7,26 +7,24 @@
 
 <h1>Current Position</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
-2022.05.09 ~ Now<br>
+May 9, 2022 ~ Present<br>
 https://www.zarathu.com<br><br>
 ● <strong>Subtitler of Mina Sohn Youtube Channel</strong><br>
 Korean → Japanese<br>
-2022.04 ~ Now<br>
+Apr 9, 2022 ~ Present<br>
 https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
 <h1>Education</h1>
-● University<br>
+● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Korea<br>
 <strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
-<strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture<br>
-Hankuk University of Foreign Studies</strong>, Seoul, Korea<br>
-Expected to graduate in 2023<br><br>
-● High School<br>
-Taegu Foreign Language High School, Seoul, Korea<br>
-Graduated in 2019.01.30
+<strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
+Expected to Graduate in 2023<br><br>
+● Taegu Foreign Language High School, Taegu, Korea<br>
+Graduated in Jan 30, 2019
 
 <h1>Licenses & Certifications</h1>
 ● JPT 915/990<br>
-2022.03
+Mar 20, 2022
 
 <h1>Languages</h1>
 I can speak :<br>
