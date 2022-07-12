@@ -1,10 +1,5 @@
 <h1>Currently in Preparation...</h1>
 
-<h1>About Me</h1>
-● Name : Junhong Park<br><br>
-● Nationality : Korean<br><br>
-● E-mail Address : 
-
 <h1>Current Position</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 May 9, 2022 ~ Present<br>
