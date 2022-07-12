@@ -16,7 +16,7 @@ https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 GPA 3.7/4.5<br>
 Mar 2016 ~ (Expected to Graduate in)2023<br><br>
 ● <strong>Taegu Foreign Language High School</strong>, Taegu, Korea<br>
-<strong>Department of Japanese-English</strong><br>
+<strong>Department of Japanese and English</strong><br>
 Feb 2016 ~ Jan 30, 2019
 
 <h1>Languages</h1>
