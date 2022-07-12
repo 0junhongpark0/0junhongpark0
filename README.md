@@ -14,10 +14,10 @@ https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 <strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
 <strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
 GPA 3.7/4.5<br>
-Expected to Graduate in 2023<br><br>
+Mar 2016 ~ (Expected to Graduate in)2023<br><br>
 ● <strong>Taegu Foreign Language High School</strong>, Taegu, Korea<br>
 <strong>Department of Japanese-English</strong><br>
-Graduated in Jan 30, 2019
+Feb 2016 ~ Jan 30, 2019
 
 <h1>Languages</h1>
 I can speak :<br>
