@@ -11,8 +11,7 @@ https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
 <h1>Education</h1>
 ● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Republic of Korea<br>
-<strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
-<strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
+<strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in <strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
 Mar 4, 2019 ~ (Expected to Graduate in)2023<br><br>
 ● <strong>Taegu Foreign Language High School</strong>, Taegu, Republic of Korea<br>
 <strong>Department of Japanese and English</strong><br>
