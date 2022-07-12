@@ -10,12 +10,12 @@ Apr 9, 2022 ~ Present<br>
 https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
 <h1>Education</h1>
-● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Korea<br>
+● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Republic of Korea<br>
 <strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
 <strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
 GPA 3.7/4.5<br>
 Mar 2016 ~ (Expected to Graduate in)2023<br><br>
-● <strong>Taegu Foreign Language High School</strong>, Taegu, Korea<br>
+● <strong>Taegu Foreign Language High School</strong>, Taegu, Republic of Korea<br>
 <strong>Department of Japanese and English</strong><br>
 Feb 2016 ~ Jan 30, 2019
 
