@@ -27,7 +27,7 @@ Advanced Level<br>
 <strong>JPT 915/990</strong><br>
 Mar 20, 2022<br><br>
 ● <strong>English</strong><br>
-Upper-Intermediate Level<br><br>
+Intermediate Level<br><br>
 ● <strong>Persian</strong><br>
 Elementary Level<br>
 
