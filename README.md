@@ -23,7 +23,8 @@ I can speak :<br>
 ● <strong>Korean</strong><br>
 Native Speaker<br><br>
 ● <strong>Japanese</strong><br>
-JPT 915/990<br>
+Near-native level<br>
+<strong>JPT 915/990</strong><br>
 Mar 20, 2022<br><br>
 ● <strong>English</strong><br><br>
 ● <strong>Persian</strong><br><br>
