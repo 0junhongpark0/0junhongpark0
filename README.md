@@ -2,29 +2,29 @@
 
 <h1>Current Position</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
-May 9, 2022 ~ Present<br>
-https://www.zarathu.com<br><br>
+- May 9, 2022 ~ Present<br>
+- https://www.zarathu.com<br><br>
 ● <strong>Subtitler of Mina Sohn Youtube Channel</strong><br>
 Korean → Japanese<br>
-Apr 9, 2022 ~ Present<br>
-https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
+- Apr 9, 2022 ~ Present<br>
+- https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
 <h1>Education</h1>
 ● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Republic of Korea<br>
-<strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
+- <strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
 <strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
-Mar 4, 2019 ~ (Expected to Graduate in)2023<br><br>
+- Mar 4, 2019 ~ (Expected to Graduate in)2023<br><br>
 ● <strong>Taegu Foreign Language High School</strong>, Taegu, Republic of Korea<br>
-<strong>Department of Japanese and English</strong><br>
-Feb 2016 ~ Jan 30, 2019
+- <strong>Department of Japanese and English</strong><br>
+- Feb 2016 ~ Jan 30, 2019
 
 <h1>Languages</h1>
 I can speak :<br>
 ● <strong>Korean</strong><br>
-Native Speaker<br><br>
+- Native Speaker<br><br>
 ● <strong>Japanese</strong><br>
 - Advanced Level<br>
--<strong> JPT 915/990</strong><br>
+- <strong>JPT 915/990</strong><br>
 Mar 20, 2022<br><br>
 ● <strong>English</strong><br>
 - Intermediate Level<br><br>
