@@ -23,11 +23,13 @@ I can speak :<br>
 ● <strong>Korean</strong><br>
 Native Speaker<br><br>
 ● <strong>Japanese</strong><br>
-Near-native level<br>
+Advanced Level<br>
 <strong>JPT 915/990</strong><br>
 Mar 20, 2022<br><br>
-● <strong>English</strong><br><br>
-● <strong>Persian</strong><br><br>
+● <strong>English</strong><br>
+Upper-Intermediate Level<br><br>
+● <strong>Persian</strong><br>
+Elementary Level<br>
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
