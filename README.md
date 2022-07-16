@@ -1,5 +1,13 @@
 <h1>Currently in Preparation...</h1>
 
+<h1>Personal Info</h1>
+● <strong>Name</strong><br>
+- Junhong Park<br><br>
+● <strong>Contact Info</strong><br>
+- E-mail : <br><br>
+● <strong>Location</strong><br>
+- Seoul, Republic of Korea
+
 <h1>Experience</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 - May 9, 2022 ~ Present<br>
@@ -30,6 +38,8 @@ Mar 20, 2022<br><br>
 - Intermediate Level<br><br>
 ● <strong>Persian</strong><br>
 - Elementary Level<br>
+
+<h1>Interests</h1>
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
