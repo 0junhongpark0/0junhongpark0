@@ -1,6 +1,6 @@
 <h1>Currently in Preparation...</h1>
 
-<h1>Current Position</h1>
+<h1>Experience</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 - May 9, 2022 ~ Present<br>
 - https://www.zarathu.com<br><br>
