@@ -10,11 +10,11 @@
 
 <h1>Experience</h1>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
-- May 9, 2022 ~ Present<br>
+- May 9, 2022 ~ <strong>Present</strong><br>
 - https://www.zarathu.com<br><br>
 ● <strong>Subtitler of Mina Sohn Youtube Channel</strong><br>
 Korean → Japanese<br>
-- Apr 9, 2022 ~ Present<br>
+- Apr 9, 2022 ~ <strong>Present</strong><br>
 - https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
 <h1>Education</h1>
@@ -40,6 +40,8 @@ Mar 20, 2022<br><br>
 - Elementary Level<br>
 
 <h1>Interests</h1>
+● Learning Foreign Languages<br><br>
+● Reading
 
 <!--
 **0junhongpark0/0junhongpark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
