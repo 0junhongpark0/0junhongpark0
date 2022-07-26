@@ -1,4 +1,6 @@
-<h1>Personal Info</h1>
+<h1>Greetings!</h1>
+
+<h2>Personal Info</h2>
 ● <strong>Name</strong><br>
 - Junhong Park<br><br>
 ● <strong>Contact Info</strong><br>
@@ -6,7 +8,7 @@
 ● <strong>Location</strong><br>
 - Seoul, Republic of Korea
 
-<h1>Experience</h1>
+<h2>Experience</h2>
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 - May 9, 2022 ~ <strong>Present</strong><br>
 - https://www.zarathu.com<br><br>
@@ -15,7 +17,7 @@ Korean → Japanese<br>
 - Apr 9, 2022 ~ <strong>Present</strong><br>
 - https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
 
-<h1>Education</h1>
+<h2>Education</h2>
 ● <strong>Hankuk University of Foreign Studies</strong>, Seoul, Republic of Korea<br>
 - <strong>Bachelor of Arts</strong>, <strong>Double Major</strong> in<br>
 <strong>Department of Persian and Iranian Studies</strong> & <strong>Japanese Language, Literature and Culture</strong><br>
@@ -24,7 +26,7 @@ Korean → Japanese<br>
 - <strong>Department of Japanese and English</strong><br>
 - Feb 2016 ~ Jan 30, 2019
 
-<h1>Languages</h1>
+<h2>Languages</h2>
 I can speak :<br>
 ● <strong>Korean</strong><br>
 - Native Speaker<br><br>
@@ -37,7 +39,7 @@ Mar 20, 2022<br><br>
 ● <strong>Persian</strong><br>
 - Elementary Level<br>
 
-<h1>Interests</h1>
+<h2>Interests</h2>
 ● Learning Foreign Languages<br><br>
 ● Reading
 
