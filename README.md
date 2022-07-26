@@ -1,5 +1,3 @@
-<h1>Currently in Preparation...</h1>
-
 <h1>Personal Info</h1>
 ● <strong>Name</strong><br>
 - Junhong Park<br><br>
