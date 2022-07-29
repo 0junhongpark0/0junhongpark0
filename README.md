@@ -4,7 +4,7 @@
 ● <strong>Name</strong><br>
 - Junhong Park<br><br>
 ● <strong>Contact Info</strong><br>
-- E-mail : <br><br>
+- E-mail : utd0710@gmail.com<br><br>
 ● <strong>Location</strong><br>
 - Seoul, Republic of Korea
 
