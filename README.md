@@ -1,4 +1,5 @@
-<h1>Thank you for visiting my profile</h1>
+<h1>Thank you for visiting my profile!</h1>
+It would be my pleasure if you read the whole profile of mine.
 
 <h2>Personal Info</h2>
 ● <strong>Name</strong><br>
