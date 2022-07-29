@@ -1,4 +1,4 @@
-<h1>Greetings!</h1>
+<h1>Thank you for visiting my profile</h1>
 
 <h2>Personal Info</h2>
 ● <strong>Name</strong><br>
