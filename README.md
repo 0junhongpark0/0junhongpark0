@@ -13,7 +13,7 @@ It would be my pleasure if you read the whole profile of mine.
 ● <strong>Marketer of Zarathu Co.,Ltd</strong><br>
 - May 9, 2022 ~ <strong>Present</strong><br>
 - https://www.zarathu.com<br><br>
-● <strong>Subtitler of Mina Sohn Youtube Channel</strong><br>
+● <strong>Subtitler of Mina Sohn Youube Channel</strong><br>
 Korean → Japanese<br>
 - Apr 9, 2022 ~ <strong>Present</strong><br>
 - https://www.youtube.com/channel/UCgpXhc6CbkFmcLK_S4nu_kw
